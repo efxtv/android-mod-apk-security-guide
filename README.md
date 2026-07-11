@@ -375,3 +375,7 @@ This demonstration illustrates why **modded applications are extremely dangerous
 *Document Version: 1.0*  
 *Analysis Date: July 2026*  
 *Classification: Educational Material*
+
+*<a href="https://buymeacoffee.com/efxtv" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>*
+
+---
